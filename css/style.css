@@ -10128,3 +10128,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.project-card{
+  height: 250px;
+  width: auto;
+  border-radius: 20px;
+}
